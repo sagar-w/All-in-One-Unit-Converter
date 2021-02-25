@@ -19,7 +19,6 @@ root.maxsize(width=690, height=500)
 #============================FRAMES======================================
 Top = Frame(root, width=500, bd=1, relief=SOLID)
 Top.pack(side=TOP)
-
 ###############################################################################
 lbl_title = Label(Top, text="ALL IN ONE CONVERTER", font=('times new roman', 16), bg="yellow" , fg="black",width=700)
 lbl_title.pack(fill=X)
